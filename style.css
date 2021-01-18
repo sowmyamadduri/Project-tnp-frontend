@@ -1,0 +1,168 @@
+body {
+    margin: 0;
+    
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+      "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color:rgba(0, 153, 255, 0.686);
+   
+  }
+  
+  .main {
+    text-align: center
+    
+  }
+  .sideclass{
+    text-align: left;
+  }
+  
+  
+  .main form,
+  .main .details {
+    width: 500px;
+    border: 1px solid #ddd;
+    margin: 15px;
+    padding: 23px;
+    text-align: center;
+    margin-left: 385px;
+    background-color: white;
+    text-align: center;
+   
+   box-shadow: mediumblue;
+   border-radius: 10px;
+  }
+  
+  
+  
+  input[type="tel"],
+  input[type="email"],
+  input[type="password"],
+  input[type="text"] {
+    width: 300px;
+   
+  }
+  .inputpass{
+    width: 400px
+  }
+  
+  input{
+    
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid black;
+    color: black;
+    
+  }
+  .text{
+    margin-left: 100px;
+    width: 300px;
+  }
+
+  
+  button {
+    padding: 10px;
+    margin: px;
+    color:black;
+    border-radius: 10px;
+    box-shadow: tomato;
+    font-weight: bold;
+    
+  }
+  
+  h3 {
+    margin: 5px;
+    padding: 15px 15px 0px 15px;
+    font-weight: 300;
+    font-size: 40px;
+    color:darkslateblue;
+    text-align: center;
+  }
+  
+  .errorMsg {
+    padding: 5px;
+    margin: 0px;
+    font-size: 11px;
+    color: red;
+  }
+  label {
+    display:inline-block;
+    padding-top: 5px;
+    text-align: right;
+    width: 130px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  background-color: black;
+  text-align: center;
+  color: white;
+  margin-top: auto;
+
+}
+.footer1{
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: black;
+  text-align: center;
+  color: white;
+  margin-top: auto;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  
+}
+.footer2{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: rgba(0, 0, 0, 0.878);
+  text-align: center;
+  color: white;
+  margin-top: auto;
+}
+.form-group{
+  text-align: center;
+  margin-left: auto;
+}
+.label1{
+  text-align: center;
+}
+.inputfield{
+
+  height:50px;
+  width:400px
+  
+  }
+.sidemenu{
+  text-align: left;
+  margin-top: 20px;
+  page-break-after: always;
+}
+.image1{
+  margin-top:20px;
+}
+.image2{
+  margin-top: 20px;
+  margin-left: 50px
+}
+.loginlink{
+  text-align: right;
+}
+.m{
+  
+  background-color:black;
+}
+.label2{
+  text-align: center;
+}
+
